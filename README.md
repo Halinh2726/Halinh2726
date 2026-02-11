@@ -8,6 +8,10 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Halinh2726&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Halinh2726&theme=dark&hide_border=true" alt="Halinh2726's streak" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Halinh2726&show_icons=true&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Halinh2726&show_icons=true&theme=dark&hide_border=true" alt="Halinh2726's stats" />
+</div>
